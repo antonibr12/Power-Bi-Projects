@@ -4,9 +4,10 @@
  I spent the majority of the time creating the vizualizations one by one and responding the specific questions.
 
  Questions.
+
  What is the total number of ratings?                   
  What are the total number of shows by Country?          
- What are is the percentage of Movies and for Tv Shows?
+ What is the percentage of Movies and for Tv Shows?
  What is the total number of titles in Prime Video?
  What are the Total ratings?
  What are the total genres?
